@@ -20,8 +20,9 @@ Built an interactive Tableau dashboard with KPIs, filters, and trend analysis.
 Helps management make data-driven decisions.
 
 ## 🔗 Live Dashboard
-(Paste your Tableau Public link here)
+https://public.tableau.com/views/ChocolateSalesPerformanceDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📸 Preview
-(Add dashboard screenshot here)
+<img width="1021" height="572" alt="Screenshot 2026-02-11 at 3 47 46 PM" src="https://github.com/user-attachments/assets/3fe29b5b-70e2-42ee-96c7-d9465cdc9c70" />
+
 
